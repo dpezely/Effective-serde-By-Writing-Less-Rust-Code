@@ -1,0 +1,7 @@
+{
+  "energy-preferences": {
+    "2000s": ["solar", "wind"],
+    "1900s": ["kerosene", "soy", "peanut", "petroleum"],
+    "1800s": ["wind", "whale", "seal", "kerosene"]
+  }
+}
