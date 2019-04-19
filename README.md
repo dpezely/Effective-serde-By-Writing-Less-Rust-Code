@@ -27,4 +27,4 @@ Slides are in Markdown, suitable for use with [Remark.js](http://remarkjs.com/)
 [v0.14.0](https://github.com/gnab/remark/releases/tag/v0.14.0).
 
 The Markdown version of the presentation is [presentation.md](./presentation.md),
-and the rendered HTML version is [on RawGit CDN](https://cdn.rawgit.com/dpezely/Effective-serde-By-Writing-Less-Rust-Code/master/presentation.html).
+and the rendered PDF version is [presentation.pdf](./presentation.pdf).
